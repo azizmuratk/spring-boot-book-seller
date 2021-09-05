@@ -1,0 +1,8 @@
+{
+  "name": "shaz-book-seller",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
